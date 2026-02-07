@@ -50,34 +50,34 @@
 
 
     /* フォントサイズ変数 */
-    --font-size-title: 38px;
+    --font-size-title: 32px;
 
     /* タイトル */
-    --font-size-large: 36px;
+    --font-size-large: 28px;
 
     /* 大きなテキスト */
-    --font-size-medium: 32px;
+    --font-size-medium: 22px;
 
     /* 中サイズテキスト */
-    --font-size-body: 26px;
+    --font-size-body: 18px;
 
     /* 本文サイズ */
-    --font-size-small: 22px;
+    --font-size-small: 15px;
 
     /* 小さなテキスト */
-    --font-size-caption: 20px;
+    --font-size-caption: 14px;
 
     /* キャプション */
-    --font-size-note: 16px;
+    --font-size-note: 12px;
 
     /* 行間変数 */
-    --line-height-tight: 1.15;
+    --line-height-tight: 1.1;
 
     /* 狭い行間 */
-    --line-height-normal: 1.21;
+    --line-height-normal: 1.1;
 
     /* 標準行間 */
-    --line-height-loose: 1.5;
+    --line-height-loose: 1.2;
 
     /* レイアウト */
     --slide-width: 1920px;
